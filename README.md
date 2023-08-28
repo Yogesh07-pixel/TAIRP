@@ -1,8 +1,4 @@
-# TAIRP
-This Repository Contains all the three tasks of Web Development and Designing internship provided by the Tech A Intern.
+# TWSIP_Personal-Portfolio-Website.
+This repo contains the code of my Personal Portfolio Website.
 
-Task 1 :- Personal Portfolio Website.
-
-Task 2 :- Weather Application.
-
-Task 3 :- To Do List.
+Technologies Used :- HTML , CSS , JAVASCRIPT
